@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+  - [Windows-Server-2019-deployment with VirtualBox](https://github.com/angelus06/Windows-Server-2019-deployment-project)
   - [Mastercard Cybersecurity virtual experience program](https://github.com/JeancyM_Cybertest/Algorithms-Practice)
   - [Telstra - Cybersecurity Job Simulation program](https://github.com/JeancyM_Cybertest/Algorithms-Practice)
 
