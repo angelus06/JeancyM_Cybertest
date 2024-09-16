@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeancy MBOUELA! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Jeancy MBOUELA! <br/><a href="https://github.com/angelus06/JeancyM_Cybertest">Programmer</a>, <a href="https://www.linkedin.com/in/jeancy-mbouela-558a4925/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
